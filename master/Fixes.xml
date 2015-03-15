@@ -1,0 +1,33 @@
+MafiaTV Directory = special://home/addons/plugin.video.mafiaTV/resources/libs/
+MafiaTV SubDir= adventure, documentaries, international, kids, live, movies_tv, plugins,sports 
+
+UrlResolver Dir = special://home/addons/script.module.urlresolver/lib/urlresolver/
+############################################################################################################################
+##################################################################################################################################
+thumbnails= plugins,urlresolver
+######################################################################################################################################
+
+<item>
+name>[COLOR red] Date: 7/19/2013[/COLOR]</name>
+<filename></filename>
+<location></location>
+<path></path>
+<thumbnail></thumbnail>
+</item>
+
+##################################################################################################################################
+
+
+<item>
+<name>[COLOR yellow]Fix Resolvers script error[/COLOR][COLOR aqua]Fixes videos not playing[/COLOR] [COLOR orange]restart mash when done[/COLOR][COLOR red] Date:11/26/2014[/COLOR]</name>
+<filename>default.py</filename>
+<location>special://home/addons/</location>
+<path>plugin.video.mafiaTV</path>
+<thumbnail>plugins</thumbnail>
+</item>
+
+
+
+
+
+
